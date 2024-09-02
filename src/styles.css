@@ -1,4 +1,39 @@
 /* styles.css */
 body {
-  background-color: rgb(155, 197, 227);
+  background-color: rgb(246, 246, 247);
+}
+
+button {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 10px 24px;
+  margin-right: 8px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+
+div {
+  margin-top: 16px;
+}
+
+.homeDiv2 {
+  margin: 24px;
+  line-height: 24px;
+}
+
+.btn {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 10px 24px;
+  margin-right: 8px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-top: 16px;
+}
+
+.hidden {
+  display: none;
 }
